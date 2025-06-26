@@ -3,3 +3,8 @@
 ## hello world with "##"
 ### hello world with "###"
 #### hello world with "####"
+*hello world* with "*~*"
+**hello world** with "**~**"
+***hello world*** with "***~***"
+****hello world**** with "****~****"
+
